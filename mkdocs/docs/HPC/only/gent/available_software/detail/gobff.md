@@ -17,8 +17,8 @@ To start using gobff, load one of these modules using a `module load` command li
 module load gobff/2020b
 ```
 
-*(This data was automatically generated on Wed, 06 Mar 2024 at 15:51:26 CET)*  
+*(This data was automatically generated on Tue, 03 Sep 2024 at 17:09:38 CEST)*  
 
-| |accelgor|doduo|donphan|gallade|joltik|skitty|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|gobff/2020b|-|x|-|-|-|-|
+| |accelgor|doduo|donphan|gallade|joltik|shinx|skitty|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|gobff/2020b|-|x|-|-|-|-|-|
