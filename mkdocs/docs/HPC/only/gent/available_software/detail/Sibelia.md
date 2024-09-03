@@ -17,8 +17,8 @@ To start using Sibelia, load one of these modules using a `module load` command 
 module load Sibelia/3.0.7-foss-2020b
 ```
 
-*(This data was automatically generated on Wed, 06 Mar 2024 at 15:51:26 CET)*  
+*(This data was automatically generated on Tue, 03 Sep 2024 at 15:09:54 CEST)*  
 
-| |accelgor|doduo|donphan|gallade|joltik|skitty|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Sibelia/3.0.7-foss-2020b|-|x|x|x|x|x|
+| |accelgor|doduo|donphan|gallade|joltik|shinx|skitty|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Sibelia/3.0.7-foss-2020b|-|x|x|x|x|-|x|
