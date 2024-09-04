@@ -17,9 +17,9 @@ To start using SuperLU_DIST, load one of these modules using a `module load` com
 module load SuperLU_DIST/8.1.0-foss-2022a
 ```
 
-*(This data was automatically generated on Wed, 06 Mar 2024 at 15:51:26 CET)*  
+*(This data was automatically generated on Wed, 04 Sep 2024 at 13:22:07 CEST)*  
 
-| |accelgor|doduo|donphan|gallade|joltik|skitty|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|SuperLU_DIST/8.1.0-foss-2022a|x|-|-|x|-|-|
-|SuperLU_DIST/5.4.0-intel-2020a-trisolve-merge|-|x|x|-|x|x|
+| |accelgor|doduo|donphan|gallade|joltik|shinx|skitty|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|SuperLU_DIST/8.1.0-foss-2022a|x|-|-|x|-|-|-|
+|SuperLU_DIST/5.4.0-intel-2020a-trisolve-merge|-|x|x|-|x|-|x|
